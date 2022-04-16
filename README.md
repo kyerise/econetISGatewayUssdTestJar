@@ -1,0 +1,2 @@
+# econetISGatewayUssdTestJar
+sourcecode to the econetISGatewayUssdTestJar
